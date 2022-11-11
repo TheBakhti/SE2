@@ -1,3 +1,5 @@
+package com.Bakhtiyor;
+
 import java.util.Scanner;
 
 public class Main {
